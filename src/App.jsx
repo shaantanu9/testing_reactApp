@@ -15,8 +15,8 @@ function Hh(props){
 
 function App() {
 
-  var list1 = ["checking","android","Blackbeery","iPhone","Windows Phone"];
-  var list2 = ["checking","Samsung","HTC","Micromax","Apple"];
+  var list1 = ["checking2","android","Blackbeery","iPhone","Windows Phone"];
+  var list2 = ["checking2","Samsung","HTC","Micromax","Apple"];
 
   var heading1 = "Mobile Operating System";
   var heading2 = "Mobile Manufacturing"; 
